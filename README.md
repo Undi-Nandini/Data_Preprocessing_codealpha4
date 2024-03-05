@@ -1,1 +1,4 @@
 # Data_Preprocessing_codealpha4
+
+I taken the dataset as Life Expectancy it includes the columns Country', 'Year', 'Status', 'Life expectancy ', 'Adult Mortality','infant deaths', 'Alcohol', 'percentage expenditure', 'Hepatitis B','Measles ', 'BMI','under-five deaths ', 'Polio', 'Total expenditure', 'Diphtheria ', ' HIV/AIDS', 'GDP', 'Population',' thinness  1-19 years', ' thinness 5-9 years','Income composition of resources', 'Schooling'
+This project involves a comprehensive analysis of life expectancy data, leveraging Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. The step-by-step process includes data exploration, handling missing values, exploratory data analysis (EDA) with visualizations, correlation analysis, and treatment of outliers. Advanced techniques such as KNN imputation and feature scaling are applied for data preprocessing.
